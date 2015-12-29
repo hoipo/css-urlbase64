@@ -1,0 +1,25 @@
+{
+  "name": "gulp-css-urlbase64",
+  "version": "0.1.0",
+  "description": "a gulp plugin to conver the url in css background-image to base64",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "css",
+    "background",
+    "image"
+  ],
+  "author": "HoipoCheung",
+  "license": "MIT",
+  "dependencies": {
+    "base64-img": "^1.0.3",
+    "css": "^2.2.1",
+    "gulp-util": "^3.0.7",
+    "lodash": "^3.10.1",
+    "through2": "^2.0.0"
+  }
+}

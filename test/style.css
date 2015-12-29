@@ -1,0 +1,18 @@
+/*this is a css test file*/
+body{font-size: 12px;}
+
+.coin{
+	background-image: url(img.png);
+	width: 100px;
+	height: 100px;
+}
+
+.bobo{
+	background: 0 0 no-repeat url(bobo.png?base64);
+	width: 100px;
+	height: 100px;
+}
+
+#lala{
+	background: red;
+}
