@@ -1,6 +1,5 @@
 #css-urlbase64
 
-varsion 0.1.0
 a tool to conver the url in css background-image to base64.
 
 严格来讲，这是一个nodejs模块，并不是gulp插件，它可以让你的css文件中background-image里面引用的图片资源转化为base64数据，以减少网络请求，提高页码性能和加载速度。
